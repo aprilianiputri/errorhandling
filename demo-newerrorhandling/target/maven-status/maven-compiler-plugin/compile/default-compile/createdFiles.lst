@@ -1,0 +1,10 @@
+com/connected/demonewerrorhandling/modelRequest/UpdateUserDetail.class
+com/connected/demonewerrorhandling/modelResponse/DeleteResponse.class
+com/connected/demonewerrorhandling/exception/AppExceptionHandler.class
+com/connected/demonewerrorhandling/modelRequest/UserDetails.class
+com/connected/demonewerrorhandling/modelResponse/ErrorMessage.class
+com/connected/demonewerrorhandling/modelResponse/UserRest.class
+com/connected/demonewerrorhandling/exception/UserNotFoundException.class
+com/connected/demonewerrorhandling/modelResponse/ErrorMessage$ErrorMessageBuilder.class
+com/connected/demonewerrorhandling/DemoNewerrorhandlingApplication.class
+com/connected/demonewerrorhandling/controller/UserController.class
